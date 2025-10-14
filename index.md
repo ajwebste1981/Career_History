@@ -42,7 +42,7 @@ Seasoned producer with over 20+ years of experience leading teams, managing comp
 **Production Director, Development**  
 **Amazon Games Studio** (Nov 2024 - Present)
 
-> Leading 250+ team members, managing $30M operational budget, and architecting innovative production processes for New World and emerging titles. Driving outsourcing spend to stay within $3M target for 2025.
+> As a Production Director at Amazon Games, spearheaded a cross-functional team to deliver high-impact seasonal updates for the AAA title New World. Architected and launched the innovative "Incubation Teams" framework, a scalable rapid prototyping solution that was subsequently adopted by a 50+ developer team. By championing the integration of AI tools and optimizing studio-wide processes, dramatically accelerated workflows, transforming hour-long manual tasks into processes that take just minutes.
 
 ---
 
@@ -141,5 +141,3 @@ I'm passionate about leveraging AI to augment production workflows:
 ---
 
 *Last Updated: October 2025*
-
-**Built with care for the gaming industry**
