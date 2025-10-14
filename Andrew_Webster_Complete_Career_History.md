@@ -1,4 +1,4 @@
-# 🎮 Andrew J Webster - Complete Career History
+# Andrew J Webster - Complete Career History
 
 > **20+ Years of Game Production Excellence** | AAA Titles | Live Service Games | AI Innovation
 
@@ -8,23 +8,23 @@
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
-- [📞 Contact Information](#contact-information)
-- [📋 Executive Summary](#executive-summary)
-- [💪 Core Strengths](#core-strengths)
-- [📅 Complete Career Timeline](#complete-career-timeline)
+- [Contact Information](#contact-information)
+- [Executive Summary](#executive-summary)
+- [Core Strengths](#core-strengths)
+- [Complete Career Timeline](#complete-career-timeline)
   - [Amazon Games Studio | Production Director (2024-Present)](#amazon-games-studio--production-director-development-nov-2024---present)
   - [Amazon Games Studio | Senior Producer (2023-2024)](#amazon-games-studio--senior-producer-development-2023---2024)
   - [2K | Executive Producer (2019-2023)](#2k--executive-producer-publishing-2019---2023)
   - [2K | Producer / Associate Producer (2012-2018)](#2k--producer--associate-producer-2012---2018)
   - [2K | QA Supervisor / Lead Tester (2009-2012)](#2k--qa-supervisor--lead-tester-2009---2012)
   - [Rockstar Games | Lead Tester / QA (2003-2007)](#rockstar-games--lead-tester--qa-2003---2007)
-- [🏆 Production Credits (Shipped Titles)](#production-credits-shipped-titles)
-- [💻 Technical Projects & Continuous Learning](#technical-projects--continuous-learning)
+- [Production Credits (Shipped Titles)](#production-credits-shipped-titles)
+- [Technical Projects & Continuous Learning](#technical-projects--continuous-learning)
   - [Webster AI Chef](#webster-ai-chef-personal-initiative)
   - [Cloud-Based Automation Project](#cloud-based-automation-project-personal-initiative)
-- [🎯 Production Philosophy & Methodologies](#production-philosophy--methodologies)
+- [Production Philosophy & Methodologies](#production-philosophy--methodologies)
   - [Production Quotes to Stand By](#production-quotes-to-stand-by)
   - [What Makes a Good Producer](#what-makes-a-good-producer)
   - [Leadership & Mentorship Philosophy](#leadership--mentorship-philosophy)
@@ -40,7 +40,7 @@
   - [Driving Accountability](#how-to-drive-accountability)
   - [Organizing Publishing Tasks](#how-to-organize-publishing-tasks)
   - [Centralizing Services](#benefitsdownsides-of-centralizing-services)
-- [🎤 Interview Preparation & Strategic Framework](#interview-preparation--strategic-framework)
+- [Interview Preparation & Strategic Framework](#interview-preparation--strategic-framework)
   - ["Tell Me About Yourself"](#tell-me-about-yourself)
   - ["What Are Your Greatest Strengths?"](#what-are-your-greatest-strengths)
   - ["What Is Your Biggest Weakness?"](#what-is-your-biggest-weakness-or-area-for-improvement)
@@ -52,11 +52,11 @@
   - ["How Do You Find Alignment?"](#how-do-you-find-alignment-between-publisher-and-developer-at-executive-level)
   - [Strategic Questions Playbook](#strategic-questions-playbook)
   - [Key Performance Indicators (KPIs)](#key-performance-indicators-kpis-for-production-health)
-- [🚀 My Point of View: The Future of Game Development & Production](#my-point-of-view-the-future-of-game-development--production)
+- [My Point of View: The Future of Game Development & Production](#my-point-of-view-the-future-of-game-development--production)
   - [The Evolution of GaaS](#the-evolution-of-gaas-from-content-velocity-to-sustainable-production)
   - [AI's Role in Production](#ais-role-in-production-augmentation-not-replacement)
   - [Sustainable Team Culture](#sustainable-team-culture-solving-the-talent-density-problem)
-- [📊 The 30-60-90 Day Plan Template](#the-30-60-90-day-plan-template)
+- [The 30-60-90 Day Plan Template](#the-30-60-90-day-plan-template)
   - [Philosophy: Listen, Diagnose, Deliver](#philosophy-listen-diagnose-deliver)
   - [First 30 Days: Listen & Learn](#first-30-days-listen--learn)
   - [Days 31-60: Diagnose & Align](#days-31-60-diagnose--align)
@@ -64,17 +64,17 @@
   - [Day 90 Deliverables](#day-90-deliverables-proof-of-value)
   - [Customization for Specific Roles](#customization-for-specific-roles)
   - [Why This Approach Works](#why-this-approach-works)
-- [🛠️ Production Tools & Processes Knowledge](#production-tools--processes-knowledge)
-- [🤖 AI Tools & Automation Expertise](#ai-tools--automation-expertise)
-- [✅ Closing Process (Console/Platform Submissions)](#closing-process-consoleplatform-submissions)
-- [🤝 Co-Developer Milestone Feedback Process](#co-developer-milestone-feedback-process)
-- [🌱 Inception Projects Experience](#inception-projects-experience)
-- [📈 GaaS Games: What Works and What Doesn't](#gaas-games-what-works-and-what-doesnt)
-- [📋 Assigning Work (Long Term Planning)](#assigning-work-long-term-planning)
-- [🐛 Bug Fixing Incentive Programs](#bug-fixing-incentive-programs)
-- [🗺️ Building a Road Map](#building-a-road-map)
-- [💡 Best Advice for New Producers](#best-advice-for-new-producers)
-- [ℹ️ Additional Information](#why-did-you-leave-2k)
+- [Production Tools & Processes Knowledge](#production-tools--processes-knowledge)
+- [AI Tools & Automation Expertise](#ai-tools--automation-expertise)
+- [Closing Process (Console/Platform Submissions)](#closing-process-consoleplatform-submissions)
+- [Co-Developer Milestone Feedback Process](#co-developer-milestone-feedback-process)
+- [Inception Projects Experience](#inception-projects-experience)
+- [GaaS Games: What Works and What Doesn't](#gaas-games-what-works-and-what-doesnt)
+- [Assigning Work (Long Term Planning)](#assigning-work-long-term-planning)
+- [Bug Fixing Incentive Programs](#bug-fixing-incentive-programs)
+- [Building a Road Map](#building-a-road-map)
+- [Best Advice for New Producers](#best-advice-for-new-producers)
+- [Additional Information](#why-did-you-leave-2k)
   - [Why Did You Leave 2K?](#why-did-you-leave-2k)
   - [Team Size Management Experience](#team-size-management-experience)
   - [Preview Code Planning](#preview-code-planning)
@@ -82,36 +82,36 @@
 
 ---
 
-## 📞 Contact Information
+## Contact Information
 
 **Andrew J Webster**
 
-📱 **Phone:** 628-238-9372  
-✉️ **Email:** AndrewJWebster1981@gmail.com
+**Phone:** 628-238-9372  
+**Email:** AndrewJWebster1981@gmail.com
 
 **Links:**  
-🔗 [LinkedIn Profile](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/) | 🎮 [MobyGames Profile](https://www.mobygames.com/person/581444/andrew-webster/) | 🍳 [Webster AI Chef App](https://ai-chef-meal-planner.web.app)
+[LinkedIn Profile](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/) | [MobyGames Profile](https://www.mobygames.com/person/581444/andrew-webster/) | [Webster AI Chef App](https://ai-chef-meal-planner.web.app)
 
-[⬆️ Back to Top](#-table-of-contents)
+[Back to Top](#table-of-contents)
 
 ---
 
-## 📋 Executive Summary
+## Executive Summary
 
 > **Seasoned game producer with over 20+ years of experience leading teams, managing complex projects from inception to launch, and fostering strong studio relationships.**
 
 A **calm and decisive leader**, adept at navigating challenging situations and driving solutions by building relationships based on open and honest communication. 
 
 **Proven Track Record:**
-- ✅ Shipping AAA titles
-- ✅ Managing billion-dollar franchises  
-- ✅ Architecting production processes that drive predictability and quality
+- Shipping AAA titles
+- Managing billion-dollar franchises  
+- Architecting production processes that drive predictability and quality
 
-[⬆️ Back to Top](#-table-of-contents)
+[Back to Top](#table-of-contents)
 
 ---
 
-## 💪 Core Strengths
+## Core Strengths
 
 ### Professional Identity
 * **Unwavering Ownership & Bias for Action**: Takes absolute ownership of complex, ambiguous, or even failing initiatives and drives them to resolution
@@ -124,22 +124,22 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
 
 | Leadership | Financial | Technical |
 |:--|:--|:--|
-| ✅ Executive Alignment | 💰 Budget Management (P&L) | 🔧 Process Architecture |
-| 👥 Team Building | 📊 Franchise Management | 📈 Data-Driven Decision Making |
-| 🤝 Studio Relationships | 💼 Contract Negotiations | 🎯 Risk Mitigation |
-| 🌐 Outsourcing & Co-Dev | 📅 Long-Term Planning | 🚀 Strategic Innovation |
+| Executive Alignment | Budget Management (P&L) | Process Architecture |
+| Team Building | Franchise Management | Data-Driven Decision Making |
+| Studio Relationships | Contract Negotiations | Risk Mitigation |
+| Outsourcing & Co-Dev | Long-Term Planning | Strategic Innovation |
 
-[⬆️ Back to Top](#-table-of-contents)
+[Back to Top](#table-of-contents)
 
 ---
 
-## 📅 Complete Career Timeline
+## Complete Career Timeline
 
-### 🎮 Amazon Games Studio | Production Director, Development (Nov 2024 - Present)
+### Amazon Games Studio | Production Director, Development (Nov 2024 - Present)
 
 > **Team Size**: Currently leading 250+ team, directly managing 15 cross-functional personnel
 
-#### 🏆 Key Accomplishments
+#### Key Accomplishments
 
 * **Strategic Program Development**: Conceived, built business case for, and operationalized the "Incubation Teams" program from scratch
   - Created new framework for rapid prototyping with co-dev support
@@ -388,6 +388,8 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
 
 ## Production Credits (Shipped Titles)
 
+[Back to Top](#table-of-contents)
+
 * **New World: Aeternum** (2024) - Production Director
 * **New World: Rise of the Angry Earth** (2023) - Sr. Producer
 * **Marvel's Midnight Suns** (2022) - Executive Producer
@@ -405,6 +407,8 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
 **Additional Production Support**:
 * Multiple Borderlands remasters and DLC releases
 * Multiple WWE titles (support roles)
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -485,6 +489,8 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
 ---
 
 ## Production Philosophy & Methodologies
+
+[Back to Top](#table-of-contents)
 
 ### Production Quotes to Stand By
 * "Hope is not a strategy"
@@ -1046,6 +1052,8 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
 
 ## Interview Preparation & Strategic Framework
 
+[Back to Top](#table-of-contents)
+
 ### "Tell Me About Yourself"
 
 **Structured Response**:
@@ -1262,6 +1270,8 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
 
 This section articulates my strategic vision for the industry's evolution and how I approach the challenges shaping the future of game development and production.
 
+[Back to Top](#table-of-contents)
+
 ---
 
 ### The Evolution of GaaS: From Content Velocity to Sustainable Production
@@ -1466,6 +1476,8 @@ This isn't soft skill management—this is strategic competitive advantage.
 ## The 30-60-90 Day Plan Template
 
 This framework represents my approach to onboarding in any new leadership role. It's designed to deliver measurable value quickly while building the foundation for long-term success.
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -1689,6 +1701,8 @@ This isn't a theoretical exercise—it's the exact approach I've used to success
 
 ## Production Tools & Processes Knowledge
 
+[Back to Top](#table-of-contents)
+
 ### Tools & Systems Experience
 * **Project Management**: Jira, Confluence, Trello
 * **Version Control**: Perforce (P4), Swarm
@@ -1794,6 +1808,8 @@ This isn't a theoretical exercise—it's the exact approach I've used to success
 ---
 
 ## AI Tools & Automation Expertise
+
+[Back to Top](#table-of-contents)
 
 ### Practical AI Applications Implemented
 
@@ -1940,6 +1956,8 @@ This isn't a theoretical exercise—it's the exact approach I've used to success
 
 ## Closing Process (Console/Platform Submissions)
 
+[Back to Top](#table-of-contents)
+
 ### Bug Projection & Planning
 * Establish QA bug projection 10-12 months from release
 * QA provides projection for total active bugs for Seasons 4-6
@@ -2082,6 +2100,8 @@ This isn't a theoretical exercise—it's the exact approach I've used to success
 ---
 
 ## GaaS Games: What Works and What Doesn't
+
+[Back to Top](#table-of-contents)
 
 ### Not Working
 
