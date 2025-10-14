@@ -26,14 +26,14 @@ title: Andrew J Webster - Game Production Portfolio
 
 ## Welcome
 
-Welcome to my professional portfolio. I'm a seasoned **Production Director** with over **20 years** of experience in the gaming industry, specializing in:
+Seasoned producer with over 20+ years of experience leading teams, managing complex projects from inception to launch, and fostering strong studio relationships. A calm and decisive leader, adept at navigating challenging situations and driving solutions by building relationships based on open and honest communication:
 
 **Expertise Areas:**
 - **AAA Game Development**
 - **Live Service Games (GaaS)**
-- **AI-Powered Production Tools**
 - **Team Leadership & Mentorship**
 - **P&L & Budget Management**
+- **AI-Powered Production Tools**
 
 ---
 
@@ -88,11 +88,6 @@ Dive deep into my comprehensive career documentation including:
 
 ## Core Strengths
 
-**Professional Identity:**
-
-**Unwavering Ownership** • **Strategic Problem-Solving** • **Calm Leadership**  
-**Technical Acumen** • **Bias for Action** • **Process Architecture**
-
 ### Key Competencies
 
 | Leadership | Financial | Technical |
@@ -135,20 +130,6 @@ I'm passionate about leveraging AI to augment production workflows:
 
 ---
 
-## Leadership Philosophy
-
-### The Five Pillars
-
-1. **Empowered Ownership** - "Trust but Verify" approach
-2. **Radical Transparency** - Weather Map reporting and open communication
-3. **Continuous Growth** - Blameless post-mortems and data-driven learning
-4. **Deliberate Team Building** - Vetting processes, not forced absorption
-5. **Sustainable Practices** - Process improvements over hero culture
-
-> **Impact:** Higher retention, lower burnout, more accurate estimates, greater ownership
-
----
-
 ## Quick Links
 
 - [Complete Career History](Andrew_Webster_Complete_Career_History.md)
@@ -159,6 +140,6 @@ I'm passionate about leveraging AI to augment production workflows:
 
 ---
 
-*Last Updated: October 2024*
+*Last Updated: October 2025*
 
 **Built with care for the gaming industry**
