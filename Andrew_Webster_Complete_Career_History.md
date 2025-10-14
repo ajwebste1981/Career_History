@@ -84,15 +84,13 @@
 
 ## 📞 Contact Information
 
-<div align="center">
-
 **Andrew J Webster**
 
-📱 628-238-9372 | ✉️ AndrewJWebster1981@gmail.com
+📱 **Phone:** 628-238-9372  
+✉️ **Email:** AndrewJWebster1981@gmail.com
 
+**Links:**  
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/) | 🎮 [MobyGames Profile](https://www.mobygames.com/person/581444/andrew-webster/) | 🍳 [Webster AI Chef App](https://ai-chef-meal-planner.web.app)
-
-</div>
 
 [⬆️ Back to Top](#-table-of-contents)
 

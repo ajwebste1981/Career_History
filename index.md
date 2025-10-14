@@ -3,20 +3,18 @@ layout: default
 title: Andrew J Webster - Game Production Portfolio
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/Portfolio-Webster_AI_Chef-green?style=for-the-badge&logo=firebase" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/MobyGames-Profile-orange?style=for-the-badge" alt="MobyGames"/>
+</p>
+
 # 🎮 Andrew J Webster
 ## Game Production Executive | 20+ Years Experience
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Webster_AI_Chef-green?style=for-the-badge&logo=firebase)](https://ai-chef-meal-planner.web.app)
-[![MobyGames](https://img.shields.io/badge/MobyGames-Profile-orange?style=for-the-badge)](https://www.mobygames.com/person/581444/andrew-webster/)
-
----
-
 **📱 628-238-9372** | **✉️ AndrewJWebster1981@gmail.com**
 
-</div>
+**🔗 [LinkedIn](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/)** | **🎮 [MobyGames](https://www.mobygames.com/person/581444/andrew-webster/)** | **🍳 [Webster AI Chef](https://ai-chef-meal-planner.web.app)**
 
 ---
 
@@ -24,17 +22,12 @@ title: Andrew J Webster - Game Production Portfolio
 
 Welcome to my professional portfolio. I'm a seasoned **Production Director** with over **20 years** of experience in the gaming industry, specializing in:
 
-<div align="center">
-
-| 🎯 Expertise Areas |
-|:--:|
-| **AAA Game Development** |
-| **Live Service Games (GaaS)** |
-| **AI-Powered Production Tools** |
-| **Team Leadership & Mentorship** |
-| **P&L & Budget Management** |
-
-</div>
+**🎯 Expertise Areas:**
+- **AAA Game Development**
+- **Live Service Games (GaaS)**
+- **AI-Powered Production Tools**
+- **Team Leadership & Mentorship**
+- **P&L & Budget Management**
 
 ---
 
@@ -63,11 +56,11 @@ Welcome to my professional portfolio. I'm a seasoned **Production Director** wit
 ### 🎮 Featured Projects
 
 - **New World** (Amazon Games) - Live Service MMO
-- **NBA 2K Series** (2K Sports) - Annual Franchise
-- **WWE 2K Series** (2K Sports) - Annual Franchise  
-- **Borderlands Series** (2K Games) - AAA Shooter
-- **XCOM Series** (2K Games) - AAA Strategy
-- **Grand Theft Auto Series** (Rockstar Games) - Open World
+- **Marvel's Midnight Suns** (2K Games) - AAA Strategy
+- **Tiny Tina's Wonderlands** (2K Games) - AAA Shooter
+- **Borderlands 3** (2K Games) - AAA Shooter
+- **WWE 2K Series** (2K Sports) - Annual Franchise
+- **Mafia III** (2K Games) - Open World Action
 
 ---
 
@@ -89,18 +82,12 @@ Dive deep into my comprehensive career documentation including:
 
 ## 🎯 Core Strengths
 
-<div align="center">
-
-### Professional Identity
+**Professional Identity:**
 
 **Unwavering Ownership** • **Strategic Problem-Solving** • **Calm Leadership**  
 **Technical Acumen** • **Bias for Action** • **Process Architecture**
 
-</div>
-
 ### Key Competencies
-
-<div align="center">
 
 | Leadership | Financial | Technical |
 |:--|:--|:--|
@@ -108,8 +95,6 @@ Dive deep into my comprehensive career documentation including:
 | 👥 Team Building (30+ mentees) | 📊 Franchise Management | 📈 Data-Driven Decisions |
 | 🤝 Studio Relationships | 💼 Contract Negotiations | 🎯 Risk Mitigation |
 | 🌐 Outsourcing & Co-Dev | 📅 Long-Term Planning | 🚀 AI-Powered Innovation |
-
-</div>
 
 ---
 
@@ -140,7 +125,7 @@ I'm passionate about leveraging AI to augment production workflows:
 - 🛒 First-to-market Instacart delivery integration
 - 📱 80+ custom UI components, 3,900+ lines of backend code
 
-**Tech Stack:** React, Firebase, Gemini AI, Firestore, Cloud Functions
+**Tech Stack:** React, TypeScript, Firebase, Gemini AI, Firestore, Cloud Functions
 
 ---
 
@@ -168,16 +153,12 @@ I'm always open to discussing:
 - 📊 Process architecture and optimization
 - 🚀 Live service game operations
 
-<div align="center">
-
 ### Contact Me
 
 **📱 628-238-9372**  
 **✉️ AndrewJWebster1981@gmail.com**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/)
-
-</div>
+**🔗 [Connect on LinkedIn](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/)**
 
 ---
 
@@ -191,11 +172,6 @@ I'm always open to discussing:
 
 ---
 
-<div align="center">
-
 *Last Updated: October 2024*
 
 **Built with ❤️ for the gaming industry**
-
-</div>
-
