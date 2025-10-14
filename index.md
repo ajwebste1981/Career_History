@@ -36,7 +36,7 @@ Welcome to my professional portfolio. I'm a seasoned **Production Director** wit
 **Production Director, Development**  
 **Amazon Games Studio** (Nov 2024 - Present)
 
-> Leading 250+ team members, managing $3M content budget, and architecting innovative production processes for New World and emerging titles.
+> Leading 250+ team members, managing $30M operational budget, and architecting innovative production processes for New World and emerging titles. Driving outsourcing spend to stay within $3M target for 2025.
 
 ---
 
@@ -49,7 +49,7 @@ Welcome to my professional portfolio. I'm a seasoned **Production Director** wit
 | **Years of Experience** | 20+ |
 | **AAA Titles Shipped** | 15+ |
 | **Team Members Led** | 250+ |
-| **Production Budget Managed** | $3M+ |
+| **Production Budget Managed** | $30M+ |
 | **Producers Mentored** | 30+ |
 | **AI Tools Developed** | 20+ |
 
@@ -140,25 +140,6 @@ I'm passionate about leveraging AI to augment production workflows:
 5. **⚖️ Sustainable Practices** - Process improvements over hero culture
 
 > **Impact:** Higher retention, lower burnout, more accurate estimates, greater ownership
-
----
-
-## 📞 Get In Touch
-
-I'm always open to discussing:
-
-- 🎮 Game production challenges and opportunities
-- 🤖 AI applications in game development
-- 👥 Team building and leadership strategies
-- 📊 Process architecture and optimization
-- 🚀 Live service game operations
-
-### Contact Me
-
-**📱 628-238-9372**  
-**✉️ AndrewJWebster1981@gmail.com**
-
-**🔗 [Connect on LinkedIn](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/)**
 
 ---
 

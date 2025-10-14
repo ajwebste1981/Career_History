@@ -62,7 +62,8 @@ Comprehensive documentation including:
 **Production Director, Development**  
 **Amazon Games Studio** (Nov 2024 - Present)
 - Leading 250+ team members
-- Managing $3M content budget
+- Managing $30M operational budget for New World
+- Driving outsourcing spend to stay within $3M target for 2025
 - Architecting production processes for New World and emerging titles
 
 ### Career Metrics
@@ -72,7 +73,7 @@ Comprehensive documentation including:
 | Years of Experience | 20+ |
 | AAA Titles Shipped | 15+ |
 | Team Size Led | 250+ |
-| Budget Managed | $3M+ |
+| Budget Managed | $30M+ |
 | Producers Mentored | 30+ |
 | AI Tools Developed | 20+ |
 

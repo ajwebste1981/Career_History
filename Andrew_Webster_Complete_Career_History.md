@@ -147,9 +147,10 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
   - Program adopted by 50+ developer team as primary innovation engine
   
 * **Financial Ownership**: 
-  - Manage $3M content budget for 2025
+  - Manage $30M operational budget for New World
+  - Drive outsourcing spend to stay within $3M target for 2025 (12-month period)
   - Own Game Pass development strategy from initial brief to strike team estimation
-  - Drive budget conversations and trade-off decisions
+  - Drive budget conversations and trade-off decisions across all spending categories
 
 * **Process Innovation**:
   - Implemented bi-weekly, Jira-driven feature status reports for New World team
@@ -1124,7 +1125,7 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
 
 "My experience with P&L has been both direct and strategic. As an Executive Producer at 2K, I was responsible for the strategic financial planning of a 10+ title portfolio. This involved creating and managing product budgets, tracking spend against forecasts, and identifying and mitigating overruns. For example, I developed data-driven outsourcing schedules with six-month cost projections to ensure we stayed within budget.
 
-"More recently at Amazon, I took on direct P&L responsibility when I built the business case for the 'Incubation Teams' program. This required me to create a full P&L from the ground up, forecasting all costs, required resources, and the potential return on investment. I also currently manage the budget for our 2025 content spend, driving the trade-off discussions to keep our work aligned with a $3M target."
+"More recently at Amazon, I took on direct P&L responsibility when I built the business case for the 'Incubation Teams' program. This required me to create a full P&L from the ground up, forecasting all costs, required resources, and the potential return on investment. I also currently manage the operational budget for New World, which is $30M, and I'm specifically driving the outsourcing spend to stay within a $3M target for the 12-month period. This involves managing trade-off discussions across all spending categories, not just outsourcing, as the overall operational costs are significantly higher."
 
 **P&L Components**:
 * EP/SP Manages budget in three parts:
