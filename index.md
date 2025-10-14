@@ -1,7 +1,4 @@
 ---
-layout: default
-title: Andrew J Webster - Game Production Portfolio
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/">
