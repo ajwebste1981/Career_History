@@ -122,13 +122,6 @@ A **calm and decisive leader**, adept at navigating challenging situations and d
 
 ## Core Strengths
 
-### Professional Identity
-* **Unwavering Ownership & Bias for Action**: Takes absolute ownership of complex, ambiguous, or even failing initiatives and drives them to resolution
-* **Strategic Problem-Solving & Process Architecture**: Excels at diagnosing root causes and building durable processes to prevent recurrence
-* **Calm Leadership & Trust Building**: Composure under pressure enables navigation of complex negotiations and building trust across teams
-* **Exceptional Initiative & Technical Acumen**: Actively learns, builds, and innovates beyond typical producer scope
-* **Strategic Advancement over Task Execution**: Distinguishes between "getting things done" and "moving the project forward"
-
 ### Core Competencies
 
 | Leadership | Financial | Technical |
