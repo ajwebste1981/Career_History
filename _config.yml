@@ -1,0 +1,49 @@
+# Site Settings
+title: Andrew J Webster - Game Production Portfolio
+description: >-
+  20+ years of game production excellence. Production Director at Amazon Games Studio.
+  Specializing in AAA development, live service games, and AI-powered production tools.
+author: Andrew J Webster
+email: AndrewJWebster1981@gmail.com
+
+# Build settings
+theme: minima
+markdown: kramdown
+
+# GitHub Pages settings
+baseurl: "/Career_History"
+url: "https://ajwebste1981.github.io"
+
+# Social profiles
+linkedin_username: andrew-j-webster-4b0b7b1b3
+github_username: ajwebste1981
+
+# Additional settings
+show_excerpts: true
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Header pages
+header_pages:
+  - index.md
+  - Andrew_Webster_Complete_Career_History.md
+
+# Exclude from processing
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - DEPLOYMENT_GUIDE.md
+
+# Kramdown settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  auto_ids: true
+  toc_levels: 1..3
+
