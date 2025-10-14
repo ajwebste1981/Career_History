@@ -2,9 +2,15 @@
 
 > **20+ Years of Game Production Excellence** | AAA Titles | Live Service Games | AI Innovation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Webster_AI_Chef-green?style=flat&logo=firebase)](https://ai-chef-meal-planner.web.app)
-[![MobyGames](https://img.shields.io/badge/MobyGames-Profile-orange?style=flat)](https://www.mobygames.com/person/581444/andrew-webster/)
+<a href="https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" alt="LinkedIn"/>
+</a>
+<a href="https://ai-chef-meal-planner.web.app">
+  <img src="https://img.shields.io/badge/Portfolio-Webster_AI_Chef-green?style=flat&logo=firebase" alt="Portfolio"/>
+</a>
+<a href="https://www.mobygames.com/person/581444/andrew-webster/">
+  <img src="https://img.shields.io/badge/MobyGames-Profile-orange?style=flat" alt="MobyGames"/>
+</a>
 
 ---
 
@@ -100,12 +106,15 @@
 
 > **Seasoned game producer with over 20+ years of experience leading teams, managing complex projects from inception to launch, and fostering strong studio relationships.**
 
-A **calm and decisive leader**, adept at navigating challenging situations and driving solutions by building relationships based on open and honest communication. 
+A **calm and decisive leader**, adept at navigating challenging situations and driving solutions by building relationships based on open and honest communication.
 
 **Proven Track Record:**
-- Shipping AAA titles
-- Managing billion-dollar franchises  
+- Leading 250+ team members across AAA titles and live service games
+- Managing billion-dollar franchises and $30M+ operational budgets
 - Architecting production processes that drive predictability and quality
+- Mentoring 30+ producers and building scalable team structures
+
+**Current Focus:** Production Director at Amazon Games Studio, driving strategic initiatives including the "Incubation Teams" program and managing New World's console operations while maintaining $3M outsourcing spend targets.
 
 [Back to Top](#table-of-contents)
 

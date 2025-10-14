@@ -1,7 +1,11 @@
 # Andrew J Webster - Career History Portfolio
 
-[![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-Live-success?style=for-the-badge&logo=github)](https://ajwebste1981.github.io/Career_History/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/)
+<a href="https://ajwebste1981.github.io/Career_History/">
+  <img src="https://img.shields.io/badge/GitHub_Pages-Live-success?style=for-the-badge&logo=github" alt="GitHub Pages"/>
+</a>
+<a href="https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
 
 ---
 

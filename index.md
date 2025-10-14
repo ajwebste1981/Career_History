@@ -4,9 +4,15 @@ title: Andrew J Webster - Game Production Portfolio
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  <img src="https://img.shields.io/badge/Portfolio-Webster_AI_Chef-green?style=for-the-badge&logo=firebase" alt="Portfolio"/>
-  <img src="https://img.shields.io/badge/MobyGames-Profile-orange?style=for-the-badge" alt="MobyGames"/>
+  <a href="https://www.linkedin.com/in/andrew-j-webster-4b0b7b1b3/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+  </a>
+  <a href="https://ai-chef-meal-planner.web.app">
+    <img src="https://img.shields.io/badge/Portfolio-Webster_AI_Chef-green?style=for-the-badge&logo=firebase" alt="Portfolio"/>
+  </a>
+  <a href="https://www.mobygames.com/person/581444/andrew-webster/">
+    <img src="https://img.shields.io/badge/MobyGames-Profile-orange?style=for-the-badge" alt="MobyGames"/>
+  </a>
 </p>
 
 # Andrew J Webster
