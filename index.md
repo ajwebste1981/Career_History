@@ -70,22 +70,6 @@ Seasoned producer with over 20+ years of experience leading teams, managing comp
 
 ---
 
-## What You'll Find Here
-
-### [Complete Career History](Andrew_Webster_Complete_Career_History.md)
-
-Dive deep into my comprehensive career documentation including:
-
-- **20+ Years of Detailed Experience** - From QA to Production Director
-- **Production Philosophy & Methodologies** - Proven frameworks and processes
-- **Future of Game Development** - My perspective on GaaS, AI, and team culture
-- **30-60-90 Day Plan** - Strategic onboarding framework
-- **AI Tools & Automation** - Practical implementations and results
-- **Interview Preparation** - Strategic frameworks and proven answers
-- **Technical Projects** - Webster AI Chef and automation tools
-
----
-
 ## Core Strengths
 
 ### Key Competencies
